@@ -1,0 +1,3 @@
+
+# exclude top-level catkin CMake file
+src/CMakeLists.txt
