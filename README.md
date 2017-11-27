@@ -1,6 +1,6 @@
 # DJI Script SDK
 
-**THIS IS NOT AN DJI OFFICIAL SDK.** (under developing)
+**THIS IS NOT DJI OFFICIAL SDK.** (under developing)
 
 support script interface for M100 real-time/automation control with diverse functions provided. Dependent on DJI Guidance suite.
 
